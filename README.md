@@ -1,3 +1,5 @@
+# 25.1.20일 이후 작동안함..(유튜브 api 관련 업데이트)
+---
 # Discord music bot
 - 선행과정
 - pip install discord.py
